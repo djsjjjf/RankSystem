@@ -1,0 +1,5 @@
+name: RankSystem
+author: AvasKr
+main: RankSystem\RankSystem
+api: 3.10.0
+version: 1.0.0
